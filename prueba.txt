@@ -1,0 +1,7 @@
+Hola mundo
+Primer práctica git
+Aplicaciones Web
+Grupo: C
+Grado: 3ro
+Carrera: Tecnologias de la Informacion
+Area: Desarrollo de Software Plataforma
