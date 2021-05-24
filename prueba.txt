@@ -1,8 +1,6 @@
-Hola mundo
 Primer práctica git
 Aplicaciones Web
-Grupo: C
-Grado: 3ro
+Grupo: 3C
 Carrera: Tecnologias de la Informacion
 Area: Desarrollo de Software Plataforma
 Turno: Matutino
